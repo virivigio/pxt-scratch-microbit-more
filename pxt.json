@@ -20,9 +20,6 @@
     ],
     "public": false,
     "yotta": {
-        "dependencies": {
-            "microbit": "yokobond/microbit#mbit-more"
-        },
         "config": {
             "microbit-dal": {
                 "bluetooth": {
