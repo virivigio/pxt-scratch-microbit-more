@@ -1,6 +1,8 @@
 # pxt-mbit-more
 
-Enhanced Scratch3 micro:bit extension. (beta)
+clone of Yengawa Lab Microbit More extension version 0.4.0
+discards modification on Lancaster Firmware
+adds more slots for communication 
  
 ## Usage
 
