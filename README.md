@@ -1,6 +1,6 @@
 # pxt-mbit-more
 
-clone of Yengawa Lab Microbit More extension version 0.4.0
+clone of Yengawa Lab Microbit More extension version 0.4.2
 discards modification on Lancaster Firmware
 adds more slots for communication 
  
